@@ -12,7 +12,7 @@ Conway's Game of Life in Processing
 
 **\*click\*** - *change a cells value*
 
-**"n"** - **print the neighbor count of the cell under the cursor**
+**"n"** - *print the neighbor count of the cell under the cursor*
 
 
 
